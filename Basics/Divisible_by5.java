@@ -1,5 +1,4 @@
 package Basics;
-
 import java.util.Scanner;
 
 public class Divisible_by5 {
