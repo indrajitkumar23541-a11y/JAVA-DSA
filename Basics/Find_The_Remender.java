@@ -15,6 +15,9 @@ public class Find_The_Remender {
         int r = a % b;   
 
         System.out.println("The remainder when " + a + " is divided by " + b + " is " + r);
+         sc.close();
+        
+
     }
 }
 
