@@ -1,5 +1,4 @@
 package Basics;
-45
 import java.util.Scanner;
 
 public class HighestFactor_Of_n {
